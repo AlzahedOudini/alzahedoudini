@@ -26,7 +26,7 @@ function Webdev() {
     <div>
       <Navbar/>
       <h1 className='text-4xl capitalize text-center font-bold pt-[10rem] mb-8'>Développement Web</h1>
-      <div onClick={swichPage} className="flex justify-center"><button className='text-center px-6 py-2 bg-slate-700 self-center'>Click</button></div>
+      {/* <div onClick={swichPage} className="flex justify-center"><button className='text-center px-6 py-2 bg-slate-700 self-center'>Click</button></div> */}
       <div className='px-8 md:px-24 2xl:px-[300px]'>
         <Waiting/>
       </div>
