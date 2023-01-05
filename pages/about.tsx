@@ -53,7 +53,7 @@ function About() {
             <div className='grid grid-cols-1 md:grid-cols-3 mt-10 '>
                 <div className='flex flex-col gap-6 border border-r-1 border-b-0 md:border-b md:border-r-0 border-black dark:border-white p-6 justify-center items-center'>
                   <h1 className='text-4xl md:text-5xl font-bold'>2+</h1>
-                  <h3 className='text-xl uppercase text-center'>Années d'experience</h3>
+                  <h3 className='text-xl uppercase text-center'>Années d&apos;experience</h3>
                 </div>
                 <div className='flex flex-col gap-6 border  border-[#E94D35] bg-[#E94D35] text-white p-6 justify-center items-center'>
                   <h1 className='text-4xl md:text-5xl font-bold'>20+</h1>
@@ -138,7 +138,7 @@ function About() {
           </div>
       </section> 
       <section className='px-8 md:px-24 2xl:px-[300px] py-14 bg-[#E6E3DE] dark:bg-[#000000] flex flex-col justify-between lg:flex-row gap-8 items-center'>
-           <h1 className='text-center text-2xl font-bold'>S'abonner à ma newsletter</h1> 
+           <h1 className='text-center text-2xl font-bold'>S&apos;abonner à ma newsletter</h1> 
            <div className='flex flex-col md:flex-row gap-8 '>
             <input type="text" name="Newsletter" className='p-4 border-2 border-black min-w-[16rem] sm:min-w-[25rem] dark:border-white   bg-transparent dark:outline-[#E94D35] outline-[#E94D35]' placeholder='Adresse mail'/>
             <button className='px-10 font-bold py-4 border transition-colors hover:duration-600  delay-1500 ease-in-out bg-black dark:border-white border-black text-white  hover:underline  dark:text-black dark:bg-white dark:hover:text-black'>Souscrire</button>

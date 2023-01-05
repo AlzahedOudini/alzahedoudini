@@ -57,10 +57,10 @@ const Home: NextPage = () => {
             </div>
             <div className='flex flex-col sm:flex-row relative text-xl gap-4 capitalize justify-center  xl:justify-start mt-4 sm:mt-0'>
               <Link href={'/design'}>
-                <button className='px-10 relatice font-bold py-4 border transition  hover:ease-in-out bg-black dark:border-white border-black text-white  hover:underline  dark:text-black dark:bg-white dark:hover:text-black  '>Besoin d'un Designer</button>
+                <button className='px-10 relatice font-bold py-4 border transition  hover:ease-in-out bg-black dark:border-white border-black text-white  hover:underline  dark:text-black dark:bg-white dark:hover:text-black  '>Besoin d&apos;un Designer</button>
               </Link>
               <Link href={'/devweb'}>
-                <button className='px-10 font-bold py-4 border transition-colors duration-500 hover:ease-in-out   dark:border-white border-black text-black hover:bg-black hover:text-white  dark:text-white dark:hover:bg-white dark:hover:text-black  '>Besoin d'un Site Web</button>
+                <button className='px-10 font-bold py-4 border transition-colors duration-500 hover:ease-in-out   dark:border-white border-black text-black hover:bg-black hover:text-white  dark:text-white dark:hover:bg-white dark:hover:text-black  '>Besoin d&apos;un Site Web</button>
               </Link>
 
             </div>
